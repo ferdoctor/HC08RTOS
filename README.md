@@ -1,5 +1,6 @@
 # HC08RTOS
 Tiny real-time scheduler (OS) for HC08 microcontrollers
+
 Copyright (c) 2004-2015 Dr. Fernando Rodriguez Salazar
 
 The goal of this project is to maintain a very simple pre-emptive OS/scheduler for the HCS08 family of microcontrollers written in plain C.  As such the kernel consists of a single file with less than 100 lines of C code.
