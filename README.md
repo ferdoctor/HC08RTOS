@@ -7,5 +7,3 @@ Such microcontrollers lack resources to run a more complex OS, yet are prefectly
 The system works by scheduling tasks in a mary-go-round fashion, letting them run for a tick, and then pre-emptying them, saving the CPU state in a stack space reserved independently and individually for each task.
  
 Please see the accompanying License file for licensing information
-
-Copyright (c) 2004-2015 Dr. Fernando Rodriguez Salazar
